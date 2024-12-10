@@ -27,5 +27,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/ZBRRi3w.gif)
+![](https://i.imgur.com/XsknLGr.gif)
 > 選擇圖示變更貼文狀態
